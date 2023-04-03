@@ -9,6 +9,10 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 		select now()
 	
 	</select>
+	
+	<insert id ="insertMembers">
+		insert into tbl_member (user_id,userpw,user_name,email) values(#{user_id},#{userpw},#{user_name},#{email})
+	</insert>
 
 
 </mapper>
