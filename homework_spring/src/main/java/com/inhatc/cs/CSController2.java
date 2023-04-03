@@ -1,4 +1,4 @@
-package com.voard.controller;
+package com.inhatc.cs;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

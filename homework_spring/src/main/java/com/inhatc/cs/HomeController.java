@@ -1,4 +1,4 @@
-package com.voard.controller;
+package com.inhatc.cs;
 
 import java.text.DateFormat;
 import java.util.Date;

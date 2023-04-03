@@ -1,4 +1,4 @@
-package com.voard.controller;
+package com.inhatc.cs;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
